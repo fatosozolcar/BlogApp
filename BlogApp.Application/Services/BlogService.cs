@@ -1,4 +1,5 @@
 // Application/Services/BlogService.cs
+//tekrar duzenlenecektir
 using SimpleBlog.Domain.Entities;
 using SimpleBlog.Domain.Interfaces;
 using System.Collections.Generic;
