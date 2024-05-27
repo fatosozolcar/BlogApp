@@ -5,10 +5,13 @@ using System.Threading.Tasks;
 
 namespace BlogApp.Domain.Entities
 {
-    public class Category
+    public class Author
     {
         public int Id { get; set; }
         public string Name { get; set; }
+        public string Email { get; set; }
+        
+        // Navigation property
         public ICollection<Post> Posts { get; set; }
     }
 }

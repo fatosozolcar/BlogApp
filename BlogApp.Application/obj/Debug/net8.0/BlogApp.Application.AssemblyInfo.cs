@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("BlogApp.Domain")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("BlogApp.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3632fa962631500d0e4ce691fa62f04ee2f90978")]
-[assembly: System.Reflection.AssemblyProductAttribute("BlogApp.Domain")]
-[assembly: System.Reflection.AssemblyTitleAttribute("BlogApp.Domain")]
+[assembly: System.Reflection.AssemblyProductAttribute("BlogApp.Application")]
+[assembly: System.Reflection.AssemblyTitleAttribute("BlogApp.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.
